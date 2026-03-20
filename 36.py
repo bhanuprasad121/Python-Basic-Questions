@@ -13,7 +13,7 @@
 # In [1]:
 # For more than two numbers, you can find the LCM step by step, taking the LCM of pairs of
 # numbers at a time until you reach the last pair.
-
+# Python Program to find the L.C.M. of two input number
 def compute_lcm(x,y):
     if x>y:
         greater=x
