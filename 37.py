@@ -3,11 +3,6 @@
 # HCF, or Highest Common Factor, is the largest positive integer that divides two or more
 # numbers without leaving a remainder.
 # Formula:
-
-# Basic Python Program - Jupyter Notebook
-
-# 13/95
-
 # For two numbers a and b, the HCF can be found using the formula:
 # HCF(a, b) = GCD(a, b)
 
